@@ -1,0 +1,221 @@
+{
+  "29146": [
+    {
+      "position": 4,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3151667,
+        "replayId": 40392,
+        "winner": "537882",
+        "teams": [
+          {
+            "id": 148366,
+            "score": 0
+          },
+          {
+            "id": 537882,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 148366,
+          "name": "ORC International"
+        },
+        {
+          "id": 537882,
+          "name": "Sexy Vicius in Ogreland"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "320420",
+        "teams": [
+          {
+            "id": 320420,
+            "score": 0
+          },
+          {
+            "id": 390924,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 320420,
+          "name": "These Shorts Dont Lie"
+        },
+        {
+          "id": 390924,
+          "name": "Bulls '95"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3153026,
+        "replayId": 41728,
+        "winner": "614833",
+        "teams": [
+          {
+            "id": 502986,
+            "score": 1
+          },
+          {
+            "id": 614833,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 502986,
+          "name": "Azure Fire"
+        },
+        {
+          "id": 614833,
+          "name": "Ammoztatori di Ammozz Reloaded"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3153179,
+        "replayId": 41876,
+        "winner": "550738",
+        "teams": [
+          {
+            "id": 550738,
+            "score": 5
+          },
+          {
+            "id": 648026,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 550738,
+          "name": "Empire Strikes Back Insanity"
+        },
+        {
+          "id": 648026,
+          "name": "Vi[R]us"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3154531,
+        "replayId": 43223,
+        "winner": "537882",
+        "teams": [
+          {
+            "id": 537882,
+            "score": 2
+          },
+          {
+            "id": 320420,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 537882,
+          "name": "Sexy Vicius in Ogreland"
+        },
+        {
+          "id": 320420,
+          "name": "These Shorts Dont Lie"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "614833",
+        "teams": [
+          {
+            "id": 614833,
+            "score": 0
+          },
+          {
+            "id": 550738,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 614833,
+          "name": "Ammoztatori di Ammozz Reloaded"
+        },
+        {
+          "id": 550738,
+          "name": "Empire Strikes Back Insanity"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3154827,
+        "replayId": 43515,
+        "winner": "614833",
+        "teams": [
+          {
+            "id": 537882,
+            "score": 1
+          },
+          {
+            "id": 614833,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 537882,
+          "name": "Sexy Vicius in Ogreland"
+        },
+        {
+          "id": 614833,
+          "name": "Ammoztatori di Ammozz Reloaded"
+        }
+      ]
+    }
+  ]
+}
