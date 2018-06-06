@@ -1,4 +1,471 @@
 {
+  "10515": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1026760,
+        "replayId": 0,
+        "winner": "222309",
+        "teams": [
+          {
+            "id": 222309,
+            "score": 4
+          },
+          {
+            "id": 223993,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222309,
+          "name": "NES Tribute"
+        },
+        {
+          "id": 223993,
+          "name": "Humbleton Hammers"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1028803,
+        "replayId": 0,
+        "winner": "223243",
+        "teams": [
+          {
+            "id": 223243,
+            "score": 1
+          },
+          {
+            "id": 224355,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223243,
+          "name": "Celtic Pagans"
+        },
+        {
+          "id": 224355,
+          "name": "Apathy Allstars"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "224520",
+        "teams": [
+          {
+            "id": 222175,
+            "score": 0
+          },
+          {
+            "id": 224520,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222175,
+          "name": "Iprenlaget"
+        },
+        {
+          "id": 224520,
+          "name": "&nbsp;"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1027180,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 223956,
+            "score": 0
+          },
+          {
+            "id": 223725,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        },
+        {
+          "id": 223725,
+          "name": "Skreetches"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "224378",
+        "teams": [
+          {
+            "id": 224378,
+            "score": 0
+          },
+          {
+            "id": 223288,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224378,
+          "name": "Soupaloignon"
+        },
+        {
+          "id": 223288,
+          "name": "sohc | chaos"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "223490",
+        "teams": [
+          {
+            "id": 223171,
+            "score": 0
+          },
+          {
+            "id": 223490,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223171,
+          "name": "&nbsp;"
+        },
+        {
+          "id": 223490,
+          "name": "Players 16 Flies 1.000.000"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1029679,
+        "replayId": 0,
+        "winner": "222267",
+        "teams": [
+          {
+            "id": 222267,
+            "score": 1
+          },
+          {
+            "id": 223641,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222267,
+          "name": "Laos Brawl Ars"
+        },
+        {
+          "id": 223641,
+          "name": "NecroWack"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1024924,
+        "replayId": 0,
+        "winner": "223852",
+        "teams": [
+          {
+            "id": 223852,
+            "score": 0
+          },
+          {
+            "id": 223826,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        },
+        {
+          "id": 223826,
+          "name": "Godzilla!"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1057581,
+        "replayId": 0,
+        "winner": "222309",
+        "teams": [
+          {
+            "id": 222309,
+            "score": 0
+          },
+          {
+            "id": 223243,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222309,
+          "name": "NES Tribute"
+        },
+        {
+          "id": 223243,
+          "name": "Celtic Pagans"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 224520,
+            "score": 0
+          },
+          {
+            "id": 223956,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224520,
+          "name": "&nbsp;"
+        },
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1060244,
+        "replayId": 0,
+        "winner": "224378",
+        "teams": [
+          {
+            "id": 224378,
+            "score": 2
+          },
+          {
+            "id": 223490,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224378,
+          "name": "Soupaloignon"
+        },
+        {
+          "id": 223490,
+          "name": "Players 16 Flies 1.000.000"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1031580,
+        "replayId": 0,
+        "winner": "223852",
+        "teams": [
+          {
+            "id": 222267,
+            "score": 2
+          },
+          {
+            "id": 223852,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222267,
+          "name": "Laos Brawl Ars"
+        },
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1081926,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 222309,
+            "score": 1
+          },
+          {
+            "id": 223956,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222309,
+          "name": "NES Tribute"
+        },
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1062550,
+        "replayId": 0,
+        "winner": "223852",
+        "teams": [
+          {
+            "id": 224378,
+            "score": 0
+          },
+          {
+            "id": 223852,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224378,
+          "name": "Soupaloignon"
+        },
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1082118,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 223956,
+            "score": 0
+          },
+          {
+            "id": 223852,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        },
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        }
+      ]
+    }
+  ],
   "29146": [
     {
       "position": 4,
