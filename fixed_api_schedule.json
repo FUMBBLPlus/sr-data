@@ -1,0 +1,5825 @@
+{
+  "8082": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 762300,
+        "replayId": 0,
+        "winner": "168309",
+        "teams": [
+          {
+            "id": 168309,
+            "score": 1
+          },
+          {
+            "id": 166786,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168309,
+          "name": "Rattle Dem Bones"
+        },
+        {
+          "id": 166786,
+          "name": "Warriors of Cheese"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 764906,
+        "replayId": 0,
+        "winner": "158940",
+        "teams": [
+          {
+            "id": 158940,
+            "score": 0
+          },
+          {
+            "id": 168925,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 158940,
+          "name": "Rhode Island Sociopaths"
+        },
+        {
+          "id": 168925,
+          "name": "Tu Es Mea Ancilla"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 761303,
+        "replayId": 0,
+        "winner": "168433",
+        "teams": [
+          {
+            "id": 168433,
+            "score": 0
+          },
+          {
+            "id": 169175,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168433,
+          "name": "LongCrocs"
+        },
+        {
+          "id": 169175,
+          "name": "Lords of the Fjords"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 756817,
+        "replayId": 0,
+        "winner": "166955",
+        "teams": [
+          {
+            "id": 166955,
+            "score": 1
+          },
+          {
+            "id": 166810,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 166955,
+          "name": "Koosnaampjes"
+        },
+        {
+          "id": 166810,
+          "name": "Molchars Crusaders"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "167524",
+        "teams": [
+          {
+            "id": 167524,
+            "score": 0
+          },
+          {
+            "id": 168427,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 167524,
+          "name": "iElf"
+        },
+        {
+          "id": 168427,
+          "name": "APV"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "167837",
+        "teams": [
+          {
+            "id": 167837,
+            "score": 0
+          },
+          {
+            "id": 167920,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 167837,
+          "name": "CCCPs"
+        },
+        {
+          "id": 167920,
+          "name": "Spiral Architects"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 760298,
+        "replayId": 0,
+        "winner": "167734",
+        "teams": [
+          {
+            "id": 167734,
+            "score": 2
+          },
+          {
+            "id": 166092,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 167734,
+          "name": "Lovable Lizards"
+        },
+        {
+          "id": 166092,
+          "name": "Riot Police"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "166966",
+        "teams": [
+          {
+            "id": 166748,
+            "score": 0
+          },
+          {
+            "id": 166966,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 166748,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 166966,
+          "name": "Verde Pittacho"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 779270,
+        "replayId": 0,
+        "winner": "168309",
+        "teams": [
+          {
+            "id": 168309,
+            "score": 2
+          },
+          {
+            "id": 158940,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168309,
+          "name": "Rattle Dem Bones"
+        },
+        {
+          "id": 158940,
+          "name": "Rhode Island Sociopaths"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 777327,
+        "replayId": 0,
+        "winner": "166955",
+        "teams": [
+          {
+            "id": 168433,
+            "score": 2
+          },
+          {
+            "id": 166955,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168433,
+          "name": "LongCrocs"
+        },
+        {
+          "id": 166955,
+          "name": "Koosnaampjes"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 790810,
+        "replayId": 0,
+        "winner": "167837",
+        "teams": [
+          {
+            "id": 167524,
+            "score": 2
+          },
+          {
+            "id": 167837,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 167524,
+          "name": "iElf"
+        },
+        {
+          "id": 167837,
+          "name": "CCCPs"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "167734",
+        "teams": [
+          {
+            "id": 167734,
+            "score": 0
+          },
+          {
+            "id": 166966,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 167734,
+          "name": "Lovable Lizards"
+        },
+        {
+          "id": 166966,
+          "name": "Verde Pittacho"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 793065,
+        "replayId": 0,
+        "winner": "166955",
+        "teams": [
+          {
+            "id": 168309,
+            "score": 0
+          },
+          {
+            "id": 166955,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168309,
+          "name": "Rattle Dem Bones"
+        },
+        {
+          "id": 166955,
+          "name": "Koosnaampjes"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 794515,
+        "replayId": 0,
+        "winner": "167734",
+        "teams": [
+          {
+            "id": 167837,
+            "score": 0
+          },
+          {
+            "id": 167734,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 167837,
+          "name": "CCCPs"
+        },
+        {
+          "id": 167734,
+          "name": "Lovable Lizards"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 806846,
+        "replayId": 0,
+        "winner": "167734",
+        "teams": [
+          {
+            "id": 166955,
+            "score": 2
+          },
+          {
+            "id": 167734,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 166955,
+          "name": "Koosnaampjes"
+        },
+        {
+          "id": 167734,
+          "name": "Lovable Lizards"
+        }
+      ]
+    }
+  ],
+  "8163": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 769546,
+        "replayId": 0,
+        "winner": "169829",
+        "teams": [
+          {
+            "id": 169829,
+            "score": 0
+          },
+          {
+            "id": 10737,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169829,
+          "name": "Wissenland Patriots"
+        },
+        {
+          "id": 10737,
+          "name": "American Scotts"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "48308",
+        "teams": [
+          {
+            "id": 48308,
+            "score": 0
+          },
+          {
+            "id": 77738,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 48308,
+          "name": "Patriots of Foxboro"
+        },
+        {
+          "id": 77738,
+          "name": "Big Cities"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 768361,
+        "replayId": 0,
+        "winner": "166020",
+        "teams": [
+          {
+            "id": 168826,
+            "score": 2
+          },
+          {
+            "id": 166020,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168826,
+          "name": "Whackadang"
+        },
+        {
+          "id": 166020,
+          "name": "CSI"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 773986,
+        "replayId": 0,
+        "winner": "169813",
+        "teams": [
+          {
+            "id": 169813,
+            "score": 1
+          },
+          {
+            "id": 126119,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169813,
+          "name": "Xenophobes On The Lose"
+        },
+        {
+          "id": 126119,
+          "name": "Knights in White Satin"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "171244",
+        "teams": [
+          {
+            "id": 171244,
+            "score": 0
+          },
+          {
+            "id": 157137,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 171244,
+          "name": "Ultima Thule and affiliates"
+        },
+        {
+          "id": 157137,
+          "name": "Frozen Football Glory Days"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "168537",
+        "teams": [
+          {
+            "id": 168537,
+            "score": 0
+          },
+          {
+            "id": 167303,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168537,
+          "name": "Cannonballs Nuln"
+        },
+        {
+          "id": 167303,
+          "name": "Idiots Out Wandering Around"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "132420",
+        "teams": [
+          {
+            "id": 169839,
+            "score": 0
+          },
+          {
+            "id": 132420,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169839,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 132420,
+          "name": "Blue Bombers"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 768455,
+        "replayId": 0,
+        "winner": "169855",
+        "teams": [
+          {
+            "id": 169855,
+            "score": 0
+          },
+          {
+            "id": 169804,
+            "score": 6
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169855,
+          "name": "Calamitous Catchers"
+        },
+        {
+          "id": 169804,
+          "name": "Jutland Fanatics"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 782130,
+        "replayId": 0,
+        "winner": "169829",
+        "teams": [
+          {
+            "id": 169829,
+            "score": 2
+          },
+          {
+            "id": 48308,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169829,
+          "name": "Wissenland Patriots"
+        },
+        {
+          "id": 48308,
+          "name": "Patriots of Foxboro"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 783404,
+        "replayId": 0,
+        "winner": "169813",
+        "teams": [
+          {
+            "id": 166020,
+            "score": 2
+          },
+          {
+            "id": 169813,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 166020,
+          "name": "CSI"
+        },
+        {
+          "id": 169813,
+          "name": "Xenophobes On The Lose"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 776874,
+        "replayId": 0,
+        "winner": "168537",
+        "teams": [
+          {
+            "id": 171244,
+            "score": 1
+          },
+          {
+            "id": 168537,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 171244,
+          "name": "Ultima Thule and affiliates"
+        },
+        {
+          "id": 168537,
+          "name": "Cannonballs Nuln"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "169855",
+        "teams": [
+          {
+            "id": 132420,
+            "score": 0
+          },
+          {
+            "id": 169855,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 132420,
+          "name": "Blue Bombers"
+        },
+        {
+          "id": 169855,
+          "name": "Calamitous Catchers"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 793184,
+        "replayId": 0,
+        "winner": "169829",
+        "teams": [
+          {
+            "id": 169829,
+            "score": 2
+          },
+          {
+            "id": 169813,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169829,
+          "name": "Wissenland Patriots"
+        },
+        {
+          "id": 169813,
+          "name": "Xenophobes On The Lose"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 788472,
+        "replayId": 0,
+        "winner": "168537",
+        "teams": [
+          {
+            "id": 168537,
+            "score": 2
+          },
+          {
+            "id": 169855,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 168537,
+          "name": "Cannonballs Nuln"
+        },
+        {
+          "id": 169855,
+          "name": "Calamitous Catchers"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 797032,
+        "replayId": 0,
+        "winner": "169829",
+        "teams": [
+          {
+            "id": 169829,
+            "score": 2
+          },
+          {
+            "id": 168537,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169829,
+          "name": "Wissenland Patriots"
+        },
+        {
+          "id": 168537,
+          "name": "Cannonballs Nuln"
+        }
+      ]
+    }
+  ],
+  "8299": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 782862,
+        "replayId": 0,
+        "winner": "172079",
+        "teams": [
+          {
+            "id": 173131,
+            "score": 3
+          },
+          {
+            "id": 172079,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 173131,
+          "name": "Virtousity"
+        },
+        {
+          "id": 172079,
+          "name": "Cannonballs"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 782255,
+        "replayId": 0,
+        "winner": "173721",
+        "teams": [
+          {
+            "id": 173721,
+            "score": 2
+          },
+          {
+            "id": 173199,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 173721,
+          "name": "Lothlorien Lunatics"
+        },
+        {
+          "id": 173199,
+          "name": "Enhedslisten"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 784998,
+        "replayId": 0,
+        "winner": "169996",
+        "teams": [
+          {
+            "id": 169996,
+            "score": 3
+          },
+          {
+            "id": 173344,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169996,
+          "name": "da Oomans"
+        },
+        {
+          "id": 173344,
+          "name": "Ellyrion Stallions"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 790438,
+        "replayId": 0,
+        "winner": "173173",
+        "teams": [
+          {
+            "id": 173173,
+            "score": 2
+          },
+          {
+            "id": 170379,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 173173,
+          "name": "In Your Face Again"
+        },
+        {
+          "id": 170379,
+          "name": "Black Mountain Horde"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "170274",
+        "teams": [
+          {
+            "id": 170274,
+            "score": 0
+          },
+          {
+            "id": 169961,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 170274,
+          "name": "No heaven without Death"
+        },
+        {
+          "id": 169961,
+          "name": "NewJerseyMutts"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "171470",
+        "teams": [
+          {
+            "id": 171470,
+            "score": 0
+          },
+          {
+            "id": 171691,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 171470,
+          "name": "Snowflakes!"
+        },
+        {
+          "id": 171691,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "170457",
+        "teams": [
+          {
+            "id": 170457,
+            "score": 0
+          },
+          {
+            "id": 170748,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 170457,
+          "name": "May the Horned Rat bless us"
+        },
+        {
+          "id": 170748,
+          "name": "Summer Lifting"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 789163,
+        "replayId": 0,
+        "winner": "173609",
+        "teams": [
+          {
+            "id": 173164,
+            "score": 2
+          },
+          {
+            "id": 173609,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 173164,
+          "name": "Slapshot"
+        },
+        {
+          "id": 173609,
+          "name": "Heralds of Nonconformity"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 784112,
+        "replayId": 0,
+        "winner": "172079",
+        "teams": [
+          {
+            "id": 172079,
+            "score": 2
+          },
+          {
+            "id": 173721,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 172079,
+          "name": "Cannonballs"
+        },
+        {
+          "id": 173721,
+          "name": "Lothlorien Lunatics"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "173173",
+        "teams": [
+          {
+            "id": 169996,
+            "score": 0
+          },
+          {
+            "id": 173173,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 169996,
+          "name": "da Oomans"
+        },
+        {
+          "id": 173173,
+          "name": "In Your Face Again"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 815553,
+        "replayId": 0,
+        "winner": "170274",
+        "teams": [
+          {
+            "id": 170274,
+            "score": 3
+          },
+          {
+            "id": 171470,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 170274,
+          "name": "No heaven without Death"
+        },
+        {
+          "id": 171470,
+          "name": "Snowflakes!"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 801024,
+        "replayId": 0,
+        "winner": "170457",
+        "teams": [
+          {
+            "id": 170457,
+            "score": 1
+          },
+          {
+            "id": 173609,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 170457,
+          "name": "May the Horned Rat bless us"
+        },
+        {
+          "id": 173609,
+          "name": "Heralds of Nonconformity"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 820573,
+        "replayId": 0,
+        "winner": "173173",
+        "teams": [
+          {
+            "id": 172079,
+            "score": 1
+          },
+          {
+            "id": 173173,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 172079,
+          "name": "Cannonballs"
+        },
+        {
+          "id": 173173,
+          "name": "In Your Face Again"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 816212,
+        "replayId": 0,
+        "winner": "170274",
+        "teams": [
+          {
+            "id": 170274,
+            "score": 2
+          },
+          {
+            "id": 170457,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 170274,
+          "name": "No heaven without Death"
+        },
+        {
+          "id": 170457,
+          "name": "May the Horned Rat bless us"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 821771,
+        "replayId": 0,
+        "winner": "170274",
+        "teams": [
+          {
+            "id": 173173,
+            "score": 1
+          },
+          {
+            "id": 170274,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 173173,
+          "name": "In Your Face Again"
+        },
+        {
+          "id": 170274,
+          "name": "No heaven without Death"
+        }
+      ]
+    }
+  ],
+  "10224": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 988832,
+        "replayId": 0,
+        "winner": "215435",
+        "teams": [
+          {
+            "id": 215435,
+            "score": 1
+          },
+          {
+            "id": 214435,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215435,
+          "name": "Dead on Parade"
+        },
+        {
+          "id": 214435,
+          "name": "Inevitable Entropy"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "210790",
+        "teams": [
+          {
+            "id": 215092,
+            "score": 0
+          },
+          {
+            "id": 210790,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215092,
+          "name": "Skorbutto"
+        },
+        {
+          "id": 210790,
+          "name": "Essen obenauf"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1003365,
+        "replayId": 0,
+        "winner": "214187",
+        "teams": [
+          {
+            "id": 215323,
+            "score": 1
+          },
+          {
+            "id": 214187,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215323,
+          "name": "Lords of Tenapir"
+        },
+        {
+          "id": 214187,
+          "name": "Darkich Breakers"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 982201,
+        "replayId": 0,
+        "winner": "213915",
+        "teams": [
+          {
+            "id": 214943,
+            "score": 0
+          },
+          {
+            "id": 213915,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 214943,
+          "name": "Horn of Khorne"
+        },
+        {
+          "id": 213915,
+          "name": "Royal Rookie Cologne 3"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "214451",
+        "teams": [
+          {
+            "id": 214559,
+            "score": 0
+          },
+          {
+            "id": 214451,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 214559,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 214451,
+          "name": "Deadrock Orcs"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 982354,
+        "replayId": 0,
+        "winner": "215329",
+        "teams": [
+          {
+            "id": 215329,
+            "score": 1
+          },
+          {
+            "id": 214742,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215329,
+          "name": "Rumble Waaaggggg"
+        },
+        {
+          "id": 214742,
+          "name": "Undead Guys"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 985331,
+        "replayId": 0,
+        "winner": "215228",
+        "teams": [
+          {
+            "id": 215228,
+            "score": 2
+          },
+          {
+            "id": 213865,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215228,
+          "name": "Royal Stunties"
+        },
+        {
+          "id": 213865,
+          "name": "United Federation of Planets"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 984020,
+        "replayId": 0,
+        "winner": "215374",
+        "teams": [
+          {
+            "id": 215051,
+            "score": 1
+          },
+          {
+            "id": 215374,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215051,
+          "name": "RRR XVI winner!"
+        },
+        {
+          "id": 215374,
+          "name": "Catenacciorc"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1014090,
+        "replayId": 0,
+        "winner": "215435",
+        "teams": [
+          {
+            "id": 215435,
+            "score": 1
+          },
+          {
+            "id": 210790,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215435,
+          "name": "Dead on Parade"
+        },
+        {
+          "id": 210790,
+          "name": "Essen obenauf"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1006004,
+        "replayId": 0,
+        "winner": "214187",
+        "teams": [
+          {
+            "id": 214187,
+            "score": 0
+          },
+          {
+            "id": 213915,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 214187,
+          "name": "Darkich Breakers"
+        },
+        {
+          "id": 213915,
+          "name": "Royal Rookie Cologne 3"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "215329",
+        "teams": [
+          {
+            "id": 214451,
+            "score": 0
+          },
+          {
+            "id": 215329,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 214451,
+          "name": "Deadrock Orcs"
+        },
+        {
+          "id": 215329,
+          "name": "Rumble Waaaggggg"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "215374",
+        "teams": [
+          {
+            "id": 215228,
+            "score": 0
+          },
+          {
+            "id": 215374,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215228,
+          "name": "Royal Stunties"
+        },
+        {
+          "id": 215374,
+          "name": "Catenacciorc"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1034390,
+        "replayId": 0,
+        "winner": "215435",
+        "teams": [
+          {
+            "id": 215435,
+            "score": 2
+          },
+          {
+            "id": 214187,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215435,
+          "name": "Dead on Parade"
+        },
+        {
+          "id": 214187,
+          "name": "Darkich Breakers"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "215329",
+        "teams": [
+          {
+            "id": 215329,
+            "score": 0
+          },
+          {
+            "id": 215374,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215329,
+          "name": "Rumble Waaaggggg"
+        },
+        {
+          "id": 215374,
+          "name": "Catenacciorc"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1042526,
+        "replayId": 0,
+        "winner": "215329",
+        "teams": [
+          {
+            "id": 215435,
+            "score": 1
+          },
+          {
+            "id": 215329,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 215435,
+          "name": "Dead on Parade"
+        },
+        {
+          "id": 215329,
+          "name": "Rumble Waaaggggg"
+        }
+      ]
+    }
+  ],
+  "10432": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1027391,
+        "replayId": 0,
+        "winner": "220653",
+        "teams": [
+          {
+            "id": 220653,
+            "score": 0
+          },
+          {
+            "id": 221169,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220653,
+          "name": "Pessoal Da Pesada"
+        },
+        {
+          "id": 221169,
+          "name": "Legendary Roo's"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1018340,
+        "replayId": 0,
+        "winner": "222044",
+        "teams": [
+          {
+            "id": 221442,
+            "score": 3
+          },
+          {
+            "id": 222044,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 221442,
+          "name": "Bashington Deadlings"
+        },
+        {
+          "id": 222044,
+          "name": "Wacked Women"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1029647,
+        "replayId": 0,
+        "winner": "220457",
+        "teams": [
+          {
+            "id": 220457,
+            "score": 3
+          },
+          {
+            "id": 221234,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220457,
+          "name": "Walk Tall"
+        },
+        {
+          "id": 221234,
+          "name": "Faster than Cologne"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "220786",
+        "teams": [
+          {
+            "id": 221443,
+            "score": 0
+          },
+          {
+            "id": 220786,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 221443,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 220786,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1023650,
+        "replayId": 0,
+        "winner": "220766",
+        "teams": [
+          {
+            "id": 220766,
+            "score": 3
+          },
+          {
+            "id": 221614,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220766,
+          "name": "Caladon Dragons"
+        },
+        {
+          "id": 221614,
+          "name": "Thanquols finest again"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1023515,
+        "replayId": 0,
+        "winner": "221757",
+        "teams": [
+          {
+            "id": 221757,
+            "score": 0
+          },
+          {
+            "id": 222477,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 221757,
+          "name": "Arakeen Army"
+        },
+        {
+          "id": 222477,
+          "name": "Zzzeakerzzz"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1012744,
+        "replayId": 0,
+        "winner": "220847",
+        "teams": [
+          {
+            "id": 220847,
+            "score": 1
+          },
+          {
+            "id": 221229,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220847,
+          "name": "Dancing with Dwarves"
+        },
+        {
+          "id": 221229,
+          "name": "Barttraeger"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1013632,
+        "replayId": 0,
+        "winner": "221926",
+        "teams": [
+          {
+            "id": 220357,
+            "score": 2
+          },
+          {
+            "id": 221926,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220357,
+          "name": "Golden Beard"
+        },
+        {
+          "id": 221926,
+          "name": "Cologne Rumble II"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1034272,
+        "replayId": 0,
+        "winner": "220653",
+        "teams": [
+          {
+            "id": 220653,
+            "score": 0
+          },
+          {
+            "id": 222044,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220653,
+          "name": "Pessoal Da Pesada"
+        },
+        {
+          "id": 222044,
+          "name": "Wacked Women"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "220457",
+        "teams": [
+          {
+            "id": 220457,
+            "score": 0
+          },
+          {
+            "id": 220786,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220457,
+          "name": "Walk Tall"
+        },
+        {
+          "id": 220786,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1026862,
+        "replayId": 0,
+        "winner": "220766",
+        "teams": [
+          {
+            "id": 220766,
+            "score": 1
+          },
+          {
+            "id": 221757,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220766,
+          "name": "Caladon Dragons"
+        },
+        {
+          "id": 221757,
+          "name": "Arakeen Army"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1014840,
+        "replayId": 0,
+        "winner": "220847",
+        "teams": [
+          {
+            "id": 220847,
+            "score": 0
+          },
+          {
+            "id": 221926,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220847,
+          "name": "Dancing with Dwarves"
+        },
+        {
+          "id": 221926,
+          "name": "Cologne Rumble II"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1054272,
+        "replayId": 0,
+        "winner": "220653",
+        "teams": [
+          {
+            "id": 220653,
+            "score": 1
+          },
+          {
+            "id": 220457,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220653,
+          "name": "Pessoal Da Pesada"
+        },
+        {
+          "id": 220457,
+          "name": "Walk Tall"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1036662,
+        "replayId": 0,
+        "winner": "220766",
+        "teams": [
+          {
+            "id": 220766,
+            "score": 2
+          },
+          {
+            "id": 220847,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220766,
+          "name": "Caladon Dragons"
+        },
+        {
+          "id": 220847,
+          "name": "Dancing with Dwarves"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1054356,
+        "replayId": 0,
+        "winner": "220653",
+        "teams": [
+          {
+            "id": 220653,
+            "score": 3
+          },
+          {
+            "id": 220766,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 220653,
+          "name": "Pessoal Da Pesada"
+        },
+        {
+          "id": 220766,
+          "name": "Caladon Dragons"
+        }
+      ]
+    }
+  ],
+  "10515": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1026760,
+        "replayId": 0,
+        "winner": "222309",
+        "teams": [
+          {
+            "id": 222309,
+            "score": 4
+          },
+          {
+            "id": 223993,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222309,
+          "name": "NES Tribute"
+        },
+        {
+          "id": 223993,
+          "name": "Humbleton Hammers"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1028803,
+        "replayId": 0,
+        "winner": "223243",
+        "teams": [
+          {
+            "id": 223243,
+            "score": 1
+          },
+          {
+            "id": 224355,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223243,
+          "name": "Celtic Pagans"
+        },
+        {
+          "id": 224355,
+          "name": "Apathy Allstars"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "224520",
+        "teams": [
+          {
+            "id": 222175,
+            "score": 0
+          },
+          {
+            "id": 224520,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222175,
+          "name": "Iprenlaget"
+        },
+        {
+          "id": 224520,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1027180,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 223956,
+            "score": 0
+          },
+          {
+            "id": 223725,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        },
+        {
+          "id": 223725,
+          "name": "Skreetches"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "224378",
+        "teams": [
+          {
+            "id": 224378,
+            "score": 0
+          },
+          {
+            "id": 223288,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224378,
+          "name": "Soupaloignon"
+        },
+        {
+          "id": 223288,
+          "name": "sohc | chaos"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "223490",
+        "teams": [
+          {
+            "id": 223171,
+            "score": 0
+          },
+          {
+            "id": 223490,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223171,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 223490,
+          "name": "Players 16 Flies 1.000.000"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1029679,
+        "replayId": 0,
+        "winner": "222267",
+        "teams": [
+          {
+            "id": 222267,
+            "score": 1
+          },
+          {
+            "id": 223641,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222267,
+          "name": "Laos Brawl Ars"
+        },
+        {
+          "id": 223641,
+          "name": "NecroWack"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1024924,
+        "replayId": 0,
+        "winner": "223852",
+        "teams": [
+          {
+            "id": 223852,
+            "score": 0
+          },
+          {
+            "id": 223826,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        },
+        {
+          "id": 223826,
+          "name": "Godzilla!"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1057581,
+        "replayId": 0,
+        "winner": "222309",
+        "teams": [
+          {
+            "id": 222309,
+            "score": 0
+          },
+          {
+            "id": 223243,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222309,
+          "name": "NES Tribute"
+        },
+        {
+          "id": 223243,
+          "name": "Celtic Pagans"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 224520,
+            "score": 0
+          },
+          {
+            "id": 223956,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224520,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1060244,
+        "replayId": 0,
+        "winner": "224378",
+        "teams": [
+          {
+            "id": 224378,
+            "score": 2
+          },
+          {
+            "id": 223490,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224378,
+          "name": "Soupaloignon"
+        },
+        {
+          "id": 223490,
+          "name": "Players 16 Flies 1.000.000"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1031580,
+        "replayId": 0,
+        "winner": "223852",
+        "teams": [
+          {
+            "id": 222267,
+            "score": 2
+          },
+          {
+            "id": 223852,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222267,
+          "name": "Laos Brawl Ars"
+        },
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1081926,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 222309,
+            "score": 1
+          },
+          {
+            "id": 223956,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 222309,
+          "name": "NES Tribute"
+        },
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1062550,
+        "replayId": 0,
+        "winner": "223852",
+        "teams": [
+          {
+            "id": 224378,
+            "score": 0
+          },
+          {
+            "id": 223852,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 224378,
+          "name": "Soupaloignon"
+        },
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1082118,
+        "replayId": 0,
+        "winner": "223956",
+        "teams": [
+          {
+            "id": 223956,
+            "score": 0
+          },
+          {
+            "id": 223852,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 223956,
+          "name": "Tombstone Turmoil"
+        },
+        {
+          "id": 223852,
+          "name": "Thea Hunters"
+        }
+      ]
+    }
+  ],
+  "11176": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1088010,
+        "replayId": 0,
+        "winner": "234383",
+        "teams": [
+          {
+            "id": 234383,
+            "score": 3
+          },
+          {
+            "id": 236703,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 234383,
+          "name": "Excess is Mediocrity"
+        },
+        {
+          "id": 236703,
+          "name": "Warplock Jezzails"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "233300",
+        "teams": [
+          {
+            "id": 233973,
+            "score": 0
+          },
+          {
+            "id": 233300,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233973,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 233300,
+          "name": "Skarfug's mob"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1094945,
+        "replayId": 0,
+        "winner": "233640",
+        "teams": [
+          {
+            "id": 233640,
+            "score": 2
+          },
+          {
+            "id": 235349,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233640,
+          "name": "Birching Tribe"
+        },
+        {
+          "id": 235349,
+          "name": "Mad Boars"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1103197,
+        "replayId": 0,
+        "winner": "235083",
+        "teams": [
+          {
+            "id": 235083,
+            "score": 1
+          },
+          {
+            "id": 233398,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 235083,
+          "name": "Really Not Dead"
+        },
+        {
+          "id": 233398,
+          "name": "Pergarian Steelers"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1086544,
+        "replayId": 0,
+        "winner": "233473",
+        "teams": [
+          {
+            "id": 234855,
+            "score": 1
+          },
+          {
+            "id": 233473,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 234855,
+          "name": "Legend of the 5 Rings"
+        },
+        {
+          "id": 233473,
+          "name": "DangerSmiths"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1087890,
+        "replayId": 0,
+        "winner": "233997",
+        "teams": [
+          {
+            "id": 234030,
+            "score": 2
+          },
+          {
+            "id": 233997,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 234030,
+          "name": "RRR here we are RRR"
+        },
+        {
+          "id": 233997,
+          "name": "Rob's Zombie's"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1087084,
+        "replayId": 0,
+        "winner": "233955",
+        "teams": [
+          {
+            "id": 233955,
+            "score": 0
+          },
+          {
+            "id": 206761,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233955,
+          "name": "Da Purple Squad"
+        },
+        {
+          "id": 206761,
+          "name": "Stardust Flame"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1093276,
+        "replayId": 0,
+        "winner": "235893",
+        "teams": [
+          {
+            "id": 235893,
+            "score": 0
+          },
+          {
+            "id": 236654,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 235893,
+          "name": "Lowest Denominator"
+        },
+        {
+          "id": 236654,
+          "name": "Narggoth Ninjas"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "234383",
+        "teams": [
+          {
+            "id": 234383,
+            "score": 0
+          },
+          {
+            "id": 233300,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 234383,
+          "name": "Excess is Mediocrity"
+        },
+        {
+          "id": 233300,
+          "name": "Skarfug's mob"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1119283,
+        "replayId": 0,
+        "winner": "235083",
+        "teams": [
+          {
+            "id": 233640,
+            "score": 1
+          },
+          {
+            "id": 235083,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233640,
+          "name": "Birching Tribe"
+        },
+        {
+          "id": 235083,
+          "name": "Really Not Dead"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "233473",
+        "teams": [
+          {
+            "id": 233473,
+            "score": 0
+          },
+          {
+            "id": 233997,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233473,
+          "name": "DangerSmiths"
+        },
+        {
+          "id": 233997,
+          "name": "Rob's Zombie's"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1093628,
+        "replayId": 0,
+        "winner": "235893",
+        "teams": [
+          {
+            "id": 233955,
+            "score": 0
+          },
+          {
+            "id": 235893,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233955,
+          "name": "Da Purple Squad"
+        },
+        {
+          "id": 235893,
+          "name": "Lowest Denominator"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "234383",
+        "teams": [
+          {
+            "id": 234383,
+            "score": 0
+          },
+          {
+            "id": 235083,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 234383,
+          "name": "Excess is Mediocrity"
+        },
+        {
+          "id": 235083,
+          "name": "Really Not Dead"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1140127,
+        "replayId": 0,
+        "winner": "235893",
+        "teams": [
+          {
+            "id": 233473,
+            "score": 1
+          },
+          {
+            "id": 235893,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 233473,
+          "name": "DangerSmiths"
+        },
+        {
+          "id": 235893,
+          "name": "Lowest Denominator"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1151595,
+        "replayId": 0,
+        "winner": "235893",
+        "teams": [
+          {
+            "id": 234383,
+            "score": 0
+          },
+          {
+            "id": 235893,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 234383,
+          "name": "Excess is Mediocrity"
+        },
+        {
+          "id": 235893,
+          "name": "Lowest Denominator"
+        }
+      ]
+    }
+  ],
+  "11314": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "238998",
+        "teams": [
+          {
+            "id": 238998,
+            "score": 0
+          },
+          {
+            "id": 237842,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238998,
+          "name": "Bash to the win"
+        },
+        {
+          "id": 237842,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1105345,
+        "replayId": 0,
+        "winner": "232665",
+        "teams": [
+          {
+            "id": 239070,
+            "score": 2
+          },
+          {
+            "id": 232665,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239070,
+          "name": "Chaos Rebirth II"
+        },
+        {
+          "id": 232665,
+          "name": "High Regard"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1116890,
+        "replayId": 0,
+        "winner": "239416",
+        "teams": [
+          {
+            "id": 239416,
+            "score": 1
+          },
+          {
+            "id": 238582,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239416,
+          "name": "Mannheim 49ers"
+        },
+        {
+          "id": 238582,
+          "name": "Rumble Tumble"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1110701,
+        "replayId": 0,
+        "winner": "238452",
+        "teams": [
+          {
+            "id": 239263,
+            "score": 1
+          },
+          {
+            "id": 238452,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239263,
+          "name": "Garden State's Blood Moon"
+        },
+        {
+          "id": 238452,
+          "name": "Sans aucune pretention"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1112562,
+        "replayId": 0,
+        "winner": "239207",
+        "teams": [
+          {
+            "id": 239207,
+            "score": 1
+          },
+          {
+            "id": 238576,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239207,
+          "name": "Biohazard Inside"
+        },
+        {
+          "id": 238576,
+          "name": "Durin's Sons"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1100740,
+        "replayId": 0,
+        "winner": "238417",
+        "teams": [
+          {
+            "id": 238417,
+            "score": 1
+          },
+          {
+            "id": 235662,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238417,
+          "name": "Greenshire Crackers"
+        },
+        {
+          "id": 235662,
+          "name": "TLAs"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1104288,
+        "replayId": 0,
+        "winner": "238625",
+        "teams": [
+          {
+            "id": 238625,
+            "score": 2
+          },
+          {
+            "id": 238120,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238625,
+          "name": "Taxi Uppsala"
+        },
+        {
+          "id": 238120,
+          "name": "Hammerfist"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1106583,
+        "replayId": 0,
+        "winner": "239301",
+        "teams": [
+          {
+            "id": 239301,
+            "score": 2
+          },
+          {
+            "id": 238079,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239301,
+          "name": "Weatherlight II"
+        },
+        {
+          "id": 238079,
+          "name": "Caledor Kings"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1141172,
+        "replayId": 0,
+        "winner": "238998",
+        "teams": [
+          {
+            "id": 238998,
+            "score": 3
+          },
+          {
+            "id": 232665,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238998,
+          "name": "Bash to the win"
+        },
+        {
+          "id": 232665,
+          "name": "High Regard"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1138256,
+        "replayId": 0,
+        "winner": "238452",
+        "teams": [
+          {
+            "id": 239416,
+            "score": 1
+          },
+          {
+            "id": 238452,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239416,
+          "name": "Mannheim 49ers"
+        },
+        {
+          "id": 238452,
+          "name": "Sans aucune pretention"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1122301,
+        "replayId": 0,
+        "winner": "239207",
+        "teams": [
+          {
+            "id": 239207,
+            "score": 2
+          },
+          {
+            "id": 238417,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239207,
+          "name": "Biohazard Inside"
+        },
+        {
+          "id": 238417,
+          "name": "Greenshire Crackers"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1107031,
+        "replayId": 0,
+        "winner": "239301",
+        "teams": [
+          {
+            "id": 238625,
+            "score": 3
+          },
+          {
+            "id": 239301,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238625,
+          "name": "Taxi Uppsala"
+        },
+        {
+          "id": 239301,
+          "name": "Weatherlight II"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1150035,
+        "replayId": 0,
+        "winner": "238998",
+        "teams": [
+          {
+            "id": 238998,
+            "score": 0
+          },
+          {
+            "id": 238452,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238998,
+          "name": "Bash to the win"
+        },
+        {
+          "id": 238452,
+          "name": "Sans aucune pretention"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1132888,
+        "replayId": 0,
+        "winner": "239301",
+        "teams": [
+          {
+            "id": 239207,
+            "score": 3
+          },
+          {
+            "id": 239301,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239207,
+          "name": "Biohazard Inside"
+        },
+        {
+          "id": 239301,
+          "name": "Weatherlight II"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1150156,
+        "replayId": 0,
+        "winner": "239301",
+        "teams": [
+          {
+            "id": 238998,
+            "score": 1
+          },
+          {
+            "id": 239301,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 238998,
+          "name": "Bash to the win"
+        },
+        {
+          "id": 239301,
+          "name": "Weatherlight II"
+        }
+      ]
+    }
+  ],
+  "11441": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1131405,
+        "replayId": 0,
+        "winner": "239434",
+        "teams": [
+          {
+            "id": 239434,
+            "score": 0
+          },
+          {
+            "id": 239444,
+            "score": 3
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239434,
+          "name": "Tundrawolves"
+        },
+        {
+          "id": 239444,
+          "name": "Goblet Of Fire Fighters"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1121636,
+        "replayId": 0,
+        "winner": "239628",
+        "teams": [
+          {
+            "id": 239628,
+            "score": 4
+          },
+          {
+            "id": 241325,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239628,
+          "name": "Seccion de Reconocimiento"
+        },
+        {
+          "id": 241325,
+          "name": "Grim"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1108791,
+        "replayId": 0,
+        "winner": "240092",
+        "teams": [
+          {
+            "id": 241423,
+            "score": 1
+          },
+          {
+            "id": 240092,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 241423,
+          "name": "RRRolling"
+        },
+        {
+          "id": 240092,
+          "name": "New and Improved Avatars"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "240713",
+        "teams": [
+          {
+            "id": 240713,
+            "score": 0
+          },
+          {
+            "id": 240729,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 240713,
+          "name": "Rookie Snakes"
+        },
+        {
+          "id": 240729,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "239554",
+        "teams": [
+          {
+            "id": 239554,
+            "score": 0
+          },
+          {
+            "id": 240669,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239554,
+          "name": "Rumble Waagggg returns"
+        },
+        {
+          "id": 240669,
+          "name": "Scarlet Hemophiliacs"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1107726,
+        "replayId": 0,
+        "winner": "241000",
+        "teams": [
+          {
+            "id": 241321,
+            "score": 0
+          },
+          {
+            "id": 241000,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 241321,
+          "name": "beyond the good and evil"
+        },
+        {
+          "id": 241000,
+          "name": "Super Smashing Brothers"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1108443,
+        "replayId": 0,
+        "winner": "239609",
+        "teams": [
+          {
+            "id": 239609,
+            "score": 1
+          },
+          {
+            "id": 241296,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239609,
+          "name": "Rank Incompetence"
+        },
+        {
+          "id": 241296,
+          "name": "For the greater Good VI"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1118369,
+        "replayId": 0,
+        "winner": "241244",
+        "teams": [
+          {
+            "id": 241244,
+            "score": 1
+          },
+          {
+            "id": 240641,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 241244,
+          "name": "RRR-Killers"
+        },
+        {
+          "id": 240641,
+          "name": "Redz Run Fazter"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1137675,
+        "replayId": 0,
+        "winner": "239434",
+        "teams": [
+          {
+            "id": 239434,
+            "score": 2
+          },
+          {
+            "id": 239628,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239434,
+          "name": "Tundrawolves"
+        },
+        {
+          "id": 239628,
+          "name": "Seccion de Reconocimiento"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1113259,
+        "replayId": 0,
+        "winner": "240713",
+        "teams": [
+          {
+            "id": 240092,
+            "score": 1
+          },
+          {
+            "id": 240713,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 240092,
+          "name": "New and Improved Avatars"
+        },
+        {
+          "id": 240713,
+          "name": "Rookie Snakes"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1134111,
+        "replayId": 0,
+        "winner": "239554",
+        "teams": [
+          {
+            "id": 239554,
+            "score": 0
+          },
+          {
+            "id": 241000,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239554,
+          "name": "Rumble Waagggg returns"
+        },
+        {
+          "id": 241000,
+          "name": "Super Smashing Brothers"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1127749,
+        "replayId": 0,
+        "winner": "241244",
+        "teams": [
+          {
+            "id": 239609,
+            "score": 1
+          },
+          {
+            "id": 241244,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239609,
+          "name": "Rank Incompetence"
+        },
+        {
+          "id": 241244,
+          "name": "RRR-Killers"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1152639,
+        "replayId": 0,
+        "winner": "239434",
+        "teams": [
+          {
+            "id": 239434,
+            "score": 0
+          },
+          {
+            "id": 240713,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239434,
+          "name": "Tundrawolves"
+        },
+        {
+          "id": 240713,
+          "name": "Rookie Snakes"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1136433,
+        "replayId": 0,
+        "winner": "239554",
+        "teams": [
+          {
+            "id": 239554,
+            "score": 1
+          },
+          {
+            "id": 241244,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239554,
+          "name": "Rumble Waagggg returns"
+        },
+        {
+          "id": 241244,
+          "name": "RRR-Killers"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1186941,
+        "replayId": 0,
+        "winner": "239554",
+        "teams": [
+          {
+            "id": 239434,
+            "score": 1
+          },
+          {
+            "id": 239554,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 239434,
+          "name": "Tundrawolves"
+        },
+        {
+          "id": 239554,
+          "name": "Rumble Waagggg returns"
+        }
+      ]
+    }
+  ],
+  "12182": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "254205",
+        "teams": [
+          {
+            "id": 253627,
+            "score": 0
+          },
+          {
+            "id": 254205,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 253627,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 254205,
+          "name": "Khazukan"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1180679,
+        "replayId": 0,
+        "winner": "253689",
+        "teams": [
+          {
+            "id": 253004,
+            "score": 0
+          },
+          {
+            "id": 253689,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 253004,
+          "name": "Stonefield Stunties"
+        },
+        {
+          "id": 253689,
+          "name": "blots a golf round"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1183056,
+        "replayId": 0,
+        "winner": "254627",
+        "teams": [
+          {
+            "id": 254627,
+            "score": 1
+          },
+          {
+            "id": 253559,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254627,
+          "name": "Super Bashy Hammer"
+        },
+        {
+          "id": 253559,
+          "name": "Infectamos a todos"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1196356,
+        "replayId": 0,
+        "winner": "252472",
+        "teams": [
+          {
+            "id": 254734,
+            "score": 0
+          },
+          {
+            "id": 252472,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254734,
+          "name": "Tonatiuhs Acolytes"
+        },
+        {
+          "id": 252472,
+          "name": "Little Rocking Girls"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1183208,
+        "replayId": 0,
+        "winner": "254824",
+        "teams": [
+          {
+            "id": 254824,
+            "score": 2
+          },
+          {
+            "id": 252167,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254824,
+          "name": "Dirty Trick"
+        },
+        {
+          "id": 252167,
+          "name": "Flavorful Babettes"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1183441,
+        "replayId": 0,
+        "winner": "253226",
+        "teams": [
+          {
+            "id": 253226,
+            "score": 2
+          },
+          {
+            "id": 214565,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 253226,
+          "name": "Bunny Amazones"
+        },
+        {
+          "id": 214565,
+          "name": "BowlMiners"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1189832,
+        "replayId": 0,
+        "winner": "254474",
+        "teams": [
+          {
+            "id": 254474,
+            "score": 0
+          },
+          {
+            "id": 169961,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254474,
+          "name": "this rrr is mine"
+        },
+        {
+          "id": 169961,
+          "name": "NewJerseyMutts"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1183494,
+        "replayId": 0,
+        "winner": "250632",
+        "teams": [
+          {
+            "id": 250632,
+            "score": 0
+          },
+          {
+            "id": 253420,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 250632,
+          "name": "Jersey's Death Squad"
+        },
+        {
+          "id": 253420,
+          "name": "Rightwing Allstars"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1206844,
+        "replayId": 0,
+        "winner": "254205",
+        "teams": [
+          {
+            "id": 254205,
+            "score": 2
+          },
+          {
+            "id": 253689,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254205,
+          "name": "Khazukan"
+        },
+        {
+          "id": 253689,
+          "name": "blots a golf round"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1211855,
+        "replayId": 0,
+        "winner": "254627",
+        "teams": [
+          {
+            "id": 254627,
+            "score": 0
+          },
+          {
+            "id": 252472,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254627,
+          "name": "Super Bashy Hammer"
+        },
+        {
+          "id": 252472,
+          "name": "Little Rocking Girls"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1196812,
+        "replayId": 0,
+        "winner": "254824",
+        "teams": [
+          {
+            "id": 254824,
+            "score": 2
+          },
+          {
+            "id": 253226,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254824,
+          "name": "Dirty Trick"
+        },
+        {
+          "id": 253226,
+          "name": "Bunny Amazones"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1201630,
+        "replayId": 0,
+        "winner": "254474",
+        "teams": [
+          {
+            "id": 254474,
+            "score": 0
+          },
+          {
+            "id": 250632,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254474,
+          "name": "this rrr is mine"
+        },
+        {
+          "id": 250632,
+          "name": "Jersey's Death Squad"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1213456,
+        "replayId": 0,
+        "winner": "254627",
+        "teams": [
+          {
+            "id": 254205,
+            "score": 3
+          },
+          {
+            "id": 254627,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254205,
+          "name": "Khazukan"
+        },
+        {
+          "id": 254627,
+          "name": "Super Bashy Hammer"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1225061,
+        "replayId": 0,
+        "winner": "254824",
+        "teams": [
+          {
+            "id": 254824,
+            "score": 0
+          },
+          {
+            "id": 254474,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254824,
+          "name": "Dirty Trick"
+        },
+        {
+          "id": 254474,
+          "name": "this rrr is mine"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1225592,
+        "replayId": 0,
+        "winner": "254824",
+        "teams": [
+          {
+            "id": 254627,
+            "score": 2
+          },
+          {
+            "id": 254824,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 254627,
+          "name": "Super Bashy Hammer"
+        },
+        {
+          "id": 254824,
+          "name": "Dirty Trick"
+        }
+      ]
+    }
+  ],
+  "13284": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "275284",
+        "teams": [
+          {
+            "id": 272579,
+            "score": 0
+          },
+          {
+            "id": 275284,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 272579,
+          "name": "Azeroth War Drummers"
+        },
+        {
+          "id": 275284,
+          "name": "* Unknown Team *"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1289502,
+        "replayId": 0,
+        "winner": "273588",
+        "teams": [
+          {
+            "id": 273588,
+            "score": 1
+          },
+          {
+            "id": 274414,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 273588,
+          "name": "Powa Fist"
+        },
+        {
+          "id": 274414,
+          "name": "Bloody Pests"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "270251",
+        "teams": [
+          {
+            "id": 270251,
+            "score": 0
+          },
+          {
+            "id": 275571,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 270251,
+          "name": "Triangelns Mordare"
+        },
+        {
+          "id": 275571,
+          "name": "Stalwart Seigebreakers"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "274551",
+        "teams": [
+          {
+            "id": 274551,
+            "score": 0
+          },
+          {
+            "id": 266840,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 274551,
+          "name": "Rolling Ram Raiders"
+        },
+        {
+          "id": 266840,
+          "name": "Doresain's Deadites"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1290683,
+        "replayId": 0,
+        "winner": "271202",
+        "teams": [
+          {
+            "id": 271202,
+            "score": 2
+          },
+          {
+            "id": 274966,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 271202,
+          "name": "RRR Marathon - Chaos"
+        },
+        {
+          "id": 274966,
+          "name": "Necrones 40000"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1295967,
+        "replayId": 0,
+        "winner": "274695",
+        "teams": [
+          {
+            "id": 273054,
+            "score": 2
+          },
+          {
+            "id": 274695,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 273054,
+          "name": "I search the final frontier"
+        },
+        {
+          "id": 274695,
+          "name": "Bloodsuckas"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1286788,
+        "replayId": 0,
+        "winner": "271257",
+        "teams": [
+          {
+            "id": 271257,
+            "score": 3
+          },
+          {
+            "id": 272039,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 271257,
+          "name": "Action IV"
+        },
+        {
+          "id": 272039,
+          "name": "Hell Cannons"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1283862,
+        "replayId": 0,
+        "winner": "274977",
+        "teams": [
+          {
+            "id": 271279,
+            "score": 1
+          },
+          {
+            "id": 274977,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 271279,
+          "name": "High Elfes"
+        },
+        {
+          "id": 274977,
+          "name": "La Induztria Mecanica"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "275284",
+        "teams": [
+          {
+            "id": 275284,
+            "score": 0
+          },
+          {
+            "id": 273588,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 275284,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 273588,
+          "name": "Powa Fist"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1329553,
+        "replayId": 0,
+        "winner": "270251",
+        "teams": [
+          {
+            "id": 270251,
+            "score": 3
+          },
+          {
+            "id": 274551,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 270251,
+          "name": "Triangelns Mordare"
+        },
+        {
+          "id": 274551,
+          "name": "Rolling Ram Raiders"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1303723,
+        "replayId": 0,
+        "winner": "274695",
+        "teams": [
+          {
+            "id": 271202,
+            "score": 2
+          },
+          {
+            "id": 274695,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 271202,
+          "name": "RRR Marathon - Chaos"
+        },
+        {
+          "id": 274695,
+          "name": "Bloodsuckas"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1291648,
+        "replayId": 0,
+        "winner": "271257",
+        "teams": [
+          {
+            "id": 271257,
+            "score": 0
+          },
+          {
+            "id": 274977,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 271257,
+          "name": "Action IV"
+        },
+        {
+          "id": 274977,
+          "name": "La Induztria Mecanica"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "270251",
+        "teams": [
+          {
+            "id": 275284,
+            "score": 0
+          },
+          {
+            "id": 270251,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 275284,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 270251,
+          "name": "Triangelns Mordare "
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1315157,
+        "replayId": 0,
+        "winner": "274695",
+        "teams": [
+          {
+            "id": 274695,
+            "score": 1
+          },
+          {
+            "id": 271257,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 274695,
+          "name": "Bloodsuckas"
+        },
+        {
+          "id": 271257,
+          "name": "Action IV"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1339412,
+        "replayId": 0,
+        "winner": "274695",
+        "teams": [
+          {
+            "id": 270251,
+            "score": 2
+          },
+          {
+            "id": 274695,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 270251,
+          "name": "Triangelns Mordare"
+        },
+        {
+          "id": 274695,
+          "name": "Bloodsuckas"
+        }
+      ]
+    }
+  ],
+  "15069": [
+    {
+      "position": 8,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1490558,
+        "replayId": 0,
+        "winner": "317525",
+        "teams": [
+          {
+            "id": 317525,
+            "score": 1
+          },
+          {
+            "id": 317600,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 317525,
+          "name": "Tycoon City Leftovers"
+        },
+        {
+          "id": 317600,
+          "name": "Dangerville Dames"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1487217,
+        "replayId": 0,
+        "winner": "313271",
+        "teams": [
+          {
+            "id": 313271,
+            "score": 4
+          },
+          {
+            "id": 318269,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 313271,
+          "name": "World Warrior Federation"
+        },
+        {
+          "id": 318269,
+          "name": "Running Gag"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1491119,
+        "replayId": 0,
+        "winner": "310616",
+        "teams": [
+          {
+            "id": 310616,
+            "score": 2
+          },
+          {
+            "id": 317481,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 310616,
+          "name": "Dwarven Death rollers"
+        },
+        {
+          "id": 317481,
+          "name": "Star Eagles"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "317348",
+        "teams": [
+          {
+            "id": 317348,
+            "score": 0
+          },
+          {
+            "id": 317058,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 317348,
+          "name": "RRR No More Hurting"
+        },
+        {
+          "id": 317058,
+          "name": "Their names are Robert Polson"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1497257,
+        "replayId": 0,
+        "winner": "318019",
+        "teams": [
+          {
+            "id": 318019,
+            "score": 3
+          },
+          {
+            "id": 317414,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 318019,
+          "name": "Custard Pie"
+        },
+        {
+          "id": 317414,
+          "name": "Pellejas"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1487773,
+        "replayId": 0,
+        "winner": "318287",
+        "teams": [
+          {
+            "id": 318428,
+            "score": 2
+          },
+          {
+            "id": 318287,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 318428,
+          "name": "Potato Family"
+        },
+        {
+          "id": 318287,
+          "name": "Rancid Rectangular Ragers"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1504688,
+        "replayId": 0,
+        "winner": "314317",
+        "teams": [
+          {
+            "id": 314317,
+            "score": 1
+          },
+          {
+            "id": 317690,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 314317,
+          "name": "RRR Marathon - Khemri"
+        },
+        {
+          "id": 317690,
+          "name": "Best Dressed"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "313890",
+        "teams": [
+          {
+            "id": 317658,
+            "score": 0
+          },
+          {
+            "id": 313890,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 317658,
+          "name": "* Unknown Team *"
+        },
+        {
+          "id": 313890,
+          "name": "A por Ellos...Oeh"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1499831,
+        "replayId": 0,
+        "winner": "317525",
+        "teams": [
+          {
+            "id": 317525,
+            "score": 5
+          },
+          {
+            "id": 313271,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 317525,
+          "name": "Tycoon City Leftovers"
+        },
+        {
+          "id": 313271,
+          "name": "World Warrior Federation"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1523601,
+        "replayId": 0,
+        "winner": "317348",
+        "teams": [
+          {
+            "id": 310616,
+            "score": 1
+          },
+          {
+            "id": 317348,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 310616,
+          "name": "Dwarven Death rollers"
+        },
+        {
+          "id": 317348,
+          "name": "RRR No More Hurting"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1497656,
+        "replayId": 0,
+        "winner": "318019",
+        "teams": [
+          {
+            "id": 318019,
+            "score": 0
+          },
+          {
+            "id": 318287,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 318019,
+          "name": "Custard Pie"
+        },
+        {
+          "id": 318287,
+          "name": "Rancid Rectangular Ragers"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "314317",
+        "teams": [
+          {
+            "id": 314317,
+            "score": 0
+          },
+          {
+            "id": 313890,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 314317,
+          "name": "RRR Marathon - Khemri"
+        },
+        {
+          "id": 313890,
+          "name": "A por Ellos...Oeh"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1525901,
+        "replayId": 0,
+        "winner": "317525",
+        "teams": [
+          {
+            "id": 317525,
+            "score": 1
+          },
+          {
+            "id": 317348,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 317525,
+          "name": "Tycoon City Leftovers"
+        },
+        {
+          "id": 317348,
+          "name": "RRR No More Hurting"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1543562,
+        "replayId": 0,
+        "winner": "314317",
+        "teams": [
+          {
+            "id": 318019,
+            "score": 1
+          },
+          {
+            "id": 314317,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 318019,
+          "name": "Custard Pie"
+        },
+        {
+          "id": 314317,
+          "name": "RRR Marathon - Khemri"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 4,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 1553261,
+        "replayId": 0,
+        "winner": "317525",
+        "teams": [
+          {
+            "id": 317525,
+            "score": 2
+          },
+          {
+            "id": 314317,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 317525,
+          "name": "Tycoon City Leftovers"
+        },
+        {
+          "id": 314317,
+          "name": "RRR Marathon - Khemri"
+        }
+      ]
+    }
+  ],
+  "29146": [
+    {
+      "position": 4,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3151667,
+        "replayId": 40392,
+        "winner": "537882",
+        "teams": [
+          {
+            "id": 148366,
+            "score": 0
+          },
+          {
+            "id": 537882,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 148366,
+          "name": "ORC International"
+        },
+        {
+          "id": 537882,
+          "name": "Sexy Vicius in Ogreland"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "320420",
+        "teams": [
+          {
+            "id": 320420,
+            "score": 0
+          },
+          {
+            "id": 390924,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 320420,
+          "name": "These Shorts Dont Lie"
+        },
+        {
+          "id": 390924,
+          "name": "Bulls '95"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3153026,
+        "replayId": 41728,
+        "winner": "614833",
+        "teams": [
+          {
+            "id": 502986,
+            "score": 1
+          },
+          {
+            "id": 614833,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 502986,
+          "name": "Azure Fire"
+        },
+        {
+          "id": 614833,
+          "name": "Ammoztatori di Ammozz Reloaded"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "round": 1,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3153179,
+        "replayId": 41876,
+        "winner": "550738",
+        "teams": [
+          {
+            "id": 550738,
+            "score": 5
+          },
+          {
+            "id": 648026,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 550738,
+          "name": "Empire Strikes Back Insanity"
+        },
+        {
+          "id": 648026,
+          "name": "Vi[R]us"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3154531,
+        "replayId": 43223,
+        "winner": "537882",
+        "teams": [
+          {
+            "id": 537882,
+            "score": 2
+          },
+          {
+            "id": 320420,
+            "score": 1
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 537882,
+          "name": "Sexy Vicius in Ogreland"
+        },
+        {
+          "id": 320420,
+          "name": "These Shorts Dont Lie"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "round": 2,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 0,
+        "replayId": 0,
+        "winner": "614833",
+        "teams": [
+          {
+            "id": 614833,
+            "score": 0
+          },
+          {
+            "id": 550738,
+            "score": 0
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 614833,
+          "name": "Ammoztatori di Ammozz Reloaded"
+        },
+        {
+          "id": 550738,
+          "name": "Empire Strikes Back Insanity"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "round": 3,
+      "created": null,
+      "modified": null,
+      "result": {
+        "id": 3154827,
+        "replayId": 43515,
+        "winner": "614833",
+        "teams": [
+          {
+            "id": 537882,
+            "score": 1
+          },
+          {
+            "id": 614833,
+            "score": 2
+          }
+        ]
+      },
+      "teams": [
+        {
+          "id": 537882,
+          "name": "Sexy Vicius in Ogreland"
+        },
+        {
+          "id": 614833,
+          "name": "Ammoztatori di Ammozz Reloaded"
+        }
+      ]
+    }
+  ]
+}
