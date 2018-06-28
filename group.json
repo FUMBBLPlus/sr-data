@@ -1,0 +1,19 @@
+{
+  "195": [true, "MA", 1, "FC", "FC"],
+  "1275": [true, "MA", 2, "UI", "MA"],
+  "1927": [false, "QU", 1],
+  "1928": [false, "QU", 1],
+  "2294": [true, "MI", 1, "", "R"],
+  "2299": [true, "MA", 2, "GLT", "MA"],
+  "2361": [false, "QU", 1],
+  "2410": [true, "MI", 1, "", "R"],
+  "3110": [true, "MA", 2, "WO", "MA"],
+  "3111": [false, "QU", 1],
+  "6662": [false, "QU", 1],
+  "6663": [false, "QU", 1],
+  "6664": [false, "QU", 1],
+  "7066": [true, "MA", 2, "COS", "MA"],
+  "7067": [false, "QU", 1],
+  "7922": [true, "MI", 1, "", "R"],
+  "10407": [null, null, null, "XFL MASTERS", "MA"]
+}
