@@ -5288,10 +5288,12 @@
 "45155": [2410, 0, "XFL XII HUMAN", "E/MI/1/22", "XFL HUMAN", "R", null, null],
 "45156": [2410, 0, "XFL XII KHEMRI", "E/MI/1/13", "XFL KHEMRI", "R", null, null],
 "45157": [2410, 0, "XFL XII NECROMANTIC", "E/MI/1/20", "XFL NECROMANTIC", "R", null, null],
-"45158": [7922, 0, "BARB XVIII LO", "E/MI/1/8", "", "R", null, null],
-"45166": [7922, 0, "BARB XIX LO", "E/MI/1/8", "", "R", null, null],
-"45169": [7922, 0, "BARB XII HI", "E/MI/1/8", "", "R", null, null],
+"45158": [7922, 0, "BARB XVIII LO", "E/MI/1/8", "", "R", 810, 862],
+"45166": [7922, 0, "BARB XIX LO", "E/MI/1/8", "", "R", 810, 862],
+"45169": [7922, 0, "BARB XII HI", "E/MI/1/8", "", "R", 810, 862],
 "45182": [7922, 0, "BARB XX LO", "E/MI/1/8", "", "R", null, null],
 "45183": [2294, 0, "RRR 404", "E/MI/1/16", "", "R", null, null],
-"45196": [7922, 0, "BARB XIII HI", "E/MI/1/8", "", "R", null, null]
+"45196": [7922, 0, "BARB XIII HI", "E/MI/1/8", "", "R", null, null],
+"45216": [7922, 0, "BARB XIV HI", "E/MI/1/8", "", "R", null, null],
+"45248": [7922, 0, "BARB XXI LO", "E/MI/1/8", "", "R", null, null]
 }
