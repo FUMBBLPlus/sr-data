@@ -1,10 +1,78 @@
 {
+  "1": [
+    [0, 99999, "Amazon"]
+  ],
+  "2": [
+    [0, 742, "Chaos"],
+    [742, 99999, "Chaos Chosen"]
+  ],
+  "3": [
+    [0, 99999, "Chaos Dwarf"]
+  ],
+  "4": [
+    [0, 99999, "Dark Elf"]
+  ],
+  "5": [
+    [0, 99999, "Dwarf"]
+  ],
+  "6": [
+    [0, 99999, "Goblin"]
+  ],
+  "7": [
+    [0, 99999, "Halfling"]
+  ],
+  "8": [
+    [0, 99999, "High Elf"]
+  ],
+  "9": [
+    [0, 99999, "Human"]
+  ],
+  "10": [
+    [0, 99999, "Lizardman"]
+  ],
+  "11": [
+    [0, 99999, "Norse"]
+  ],
+  "12": [
+    [0, 99999, "Orc"]
+  ],
+  "13": [
+    [0, 99999, "Skaven"]
+  ],
+  "14": [
+    [0, 742, "Undead"],
+    [742, 99999, "Shambling Undead"]
+  ],
+  "15": [
+    [0, 99999, "Wood Elf"]
+  ],
+  "16": [
+    [0, 742, "Khemri"],
+    [742, 99999, "Khemri Tomb Kings"]
+  ],
+  "17": [
+    [0, 742, "Necromantic"],
+    [742, 99999, "Necromantic Horror"]
+  ],
+  "18": [
+    [0, 99999, "Vampire"]
+  ],
+  "19": [
+    [0, 99999, "Nurgle"]
+  ],
+  "23": [
+    [0, 99999, "Ogre"]
+  ],
+  "24": [
+    [0, 742, "Elf"],
+    [742, 99999, "Elven Union"]
+  ],
   "41": [
     [0, 99999, "Amazon"]
   ],
   "42": [
-    [0, 615, "Chaos"],
-    [615, 99999, "Chaos Chosen"]
+    [0, 742, "Chaos"],
+    [742, 99999, "Chaos Chosen"]
   ],
   "43": [
     [0, 99999, "Chaos Dwarf"]
@@ -16,8 +84,8 @@
     [0, 99999, "Dwarf"]
   ],
   "46": [
-    [0, 615, "Elf"],
-    [615, 99999, "Elven Union"]
+    [0, 742, "Elf"],
+    [742, 99999, "Elven Union"]
   ],
   "47": [
     [0, 99999, "Goblin"]
@@ -32,15 +100,15 @@
     [0, 99999, "Human"]
   ],
   "51": [
-    [0, 615, "Khemri"],
-    [615, 99999, "Khemri Tomb Kings"]
+    [0, 742, "Khemri"],
+    [742, 99999, "Khemri Tomb Kings"]
   ],
   "52": [
     [0, 99999, "Lizardman"]
   ],
   "53": [
-    [0, 615, "Necromantic"],
-    [615, 99999, "Necromantic Horror"]
+    [0, 742, "Necromantic"],
+    [742, 99999, "Necromantic Horror"]
   ],
   "54": [
     [0, 99999, "Norse"]
@@ -58,8 +126,8 @@
     [0, 99999, "Skaven"]
   ],
   "59": [
-    [0, 615, "Undead"],
-    [615, 99999, "Shambling Undead"]
+    [0, 742, "Undead"],
+    [742, 99999, "Shambling Undead"]
   ],
   "60": [
     [0, 99999, "Vampire"]
@@ -68,14 +136,14 @@
     [0, 99999, "Wood Elf"]
   ],
   "64": [
-    [0, 615, "Chaos Pact"],
-    [615, 99999, "Chaos Renegades"]
+    [0, 742, "Chaos Pact"],
+    [742, 99999, "Chaos Renegades"]
   ],
   "65": [
     [0, 99999, "Slann"]
   ],
   "66": [
-    [0, 615, "Underworld"],
-    [615, 99999, "Underworld Denizens"]
+    [0, 742, "Underworld"],
+    [742, 99999, "Underworld Denizens"]
   ]
 }
