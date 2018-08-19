@@ -1,7 +1,10 @@
 {
+	"RRR-Mastery": 6319,
 	"SR": 5387,
 	"SR-Coach-Famous": 6156,
+	"SR-Coach-Points-Help": 6315,
 	"SR-Coach-Records": 6146,
+	"SR-FAQ": 6316,
 	"SR-Report-1": 5424,
 	"SR-Report-10": 5433,
 	"SR-Report-100": 5523,
@@ -726,5 +729,6 @@
 	"SR-Tournaments-Y6": 5397,
 	"SR-Tournaments-Y7": 5398,
 	"SR-Tournaments-Y8": 5399,
-	"SR-Tournaments-Y9": 5400
+	"SR-Tournaments-Y9": 5400,
+	"XFL-Mastery": 6320
 }
