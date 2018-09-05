@@ -3148,6 +3148,7 @@
 "257074": [10569, 41, "Lucky Lady"],
 "257094": [19092, 18, "Carpatian Factory"],
 "257165": [31433, 8, "Animal Rage"],
+"257170": [7516, 61, "Galarion Trackers"],
 "257196": [6768, 43, "Flying Burrito Bros"],
 "257242": [10674, 45, "Zhufbar Players"],
 "257243": [23880, 54, "Horde of Sociopathic Norsemen"],
@@ -27814,6 +27815,7 @@
 "895023": [243498, 50, "Umani Troppo Umani"],
 "895154": [82998, 66, " Dubnobasswithmyheadman"],
 "895156": [244798, 64, "Choosen circus"],
+"895170": [82998, 46, "Counterpunchers"],
 "895172": [82998, 44, "Abstract Concepts II"],
 "895173": [82998, 65, "Antromorphs"],
 "895179": [23913, 50, "Trophybox Humanity"],
@@ -27967,6 +27969,7 @@
 "902095": [15456, 57, "Nu Ork Giants"],
 "902103": [235871, 43, "Cruel Cookie Crumble 400"],
 "902115": [15649, 50, "400th Rookie Squad"],
+"902164": [243889, 61, "Dragonfly´s of ValenWoods"],
 "902174": [222320, 46, "Lolelfs"],
 "902240": [19445, 59, "Moussillon Dead Rookies"],
 "902249": [239720, 44, "Royal 400's"],
@@ -28138,5 +28141,6 @@
 "913547": [120480, 45, "Karak Grimm Enforcers"],
 "913683": [246464, 64, "Momma's Kumquat"],
 "913698": [239199, 65, "[B] Jumping Jacks"],
+"913971": [239199, 65, "[R] Legendary Leapers"],
 "914373": [76186, 59, "Flesh Eaters (1)"]
 }
