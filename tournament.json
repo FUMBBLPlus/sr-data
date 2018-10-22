@@ -5354,15 +5354,18 @@
 "45636": [7922, 0, "BARB XXII HI", "E/MI/1/8", "", "R", 823, null],
 "45659": [10407, 0, "XFL XII MASTERS", "E/MA/3/4", "XFL MASTERS", "MA", 822, null],
 "45668": [11538, 0, "IS 016", "E/MI/1/8", "", "R", 821, null],
-"45677": [7922, 0, "BARB XXVI LO", "E/MI/1/8", "", "R", null, null],
-"45678": [7922, 0, "BARB VI MI", "E/MI/1/8", "", "R", null, null],
+"45677": [7922, 0, "BARB XXVI LO", "E/MI/1/8", "", "R", 825, null],
+"45678": [7922, 0, "BARB VI MI", "E/MI/1/8", "", "R", 825, null],
 "45682": [11538, 0, "IS 017", "E/MI/1/8", "", "R", 822, null],
 "45687": [2294, 0, "RRR 408", "E/MI/1/16", "", "R", null, null],
-"45693": [7922, 0, "BARB XXIII HI", "E/MI/1/8", "", "R", null, null],
+"45693": [7922, 0, "BARB XXIII HI", "E/MI/1/8", "", "R", 825, null],
 "45695": [11538, 0, "IS 018", "E/MI/1/8", "", "R", 822, null],
 "45713": [7922, 0, "BARB VII MI", "E/MI/1/8", "", "R", null, null],
 "45716": [11538, 0, "IS 019", "E/MI/1/8", "", "R", 823, null],
 "45724": [11538, 0, "IS 020", "E/MI/1/8", "", "R", 823, null],
-"45727": [7922, 0, "BARB XXVII LO", "E/MI/1/8", "", "R", null, null],
-"45754": [195, 0, "FC XVII", "E/MA/1/?", "FC", "FC", null, null]
+"45727": [7922, 0, "BARB XXVII LO", "E/MI/1/8", "", "R", 825, null],
+"45754": [195, 0, "FC XVII", "E/MA/1/243", "FC", "FC", null, null],
+"45760": [7922, 0, "BARB XXIV HI", "E/MI/1/8", "", "R", null, null],
+"45761": [7922, 0, "BARB VIII MI", "E/MI/1/8", "", "R", null, null],
+"45765": [2294, 0, "RRR 409", "E/MI/1/16", "", "R", null, null]
 }
